@@ -8,6 +8,7 @@ Before you can play the game, you must make a character. Before a session begins
 | Elf     | 1   | 1   | 3   | 5   | 5   | 15 |
 | Human   | 3   | 5   | 1   | 1   | 3   | 20 |
 
+
 Then, they must choose a class. They are as followed: 
 
 | Name      | Modifiers        | Starting Gear                                   |
@@ -21,6 +22,7 @@ Then, they must choose a class. They are as followed:
 | Sorcerer  | +5 POW           | 3 Lvl 1 spells of choice                        |
 | Bowman    | +5 ACR           | Longbow, Leather Armor                          |
 
+
 Finally, they must choose a modifier. These give one final bonus. They are as followed: 
 
 | Name        | Modifier |
@@ -31,5 +33,6 @@ Finally, they must choose a modifier. These give one final bonus. They are as fo
 | Sight Sign  | +1 ACR   |
 | Brain Sign  | +1 POW   |
 | Haste Sign  | +1 SPD   |
+
 
 After that, the Manager will compile all of their data and move on to the next player until they are done with all players. After killing a monster (anyone that hit it gets XP), you get XP. Once you reach you XP limit (your level * 50), you get to level up! All stats are increased by one, and your Max Hp goes up by 5. Your level is then increased. 
