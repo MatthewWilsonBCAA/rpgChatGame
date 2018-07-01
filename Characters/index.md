@@ -1,6 +1,7 @@
 # Characters
 
 Before you can play the game, you must make a character. Before a session begins, the Manager will guide each player through this process. First, you must understand the different stats. They are Strength (STR), Dexterity (DEX), Accuracy (ACR), and Power (POW). Strength determines how much damage is dealt with 2-handed weapons, Dexterity determines how much damage is dealt with 1-handed weapons, Accuracy determines how much damage is dealt with bows, and Power determines how effective spells are. Speed (SPD) determines you goes first. There is also Health, or HP. If this runs out, you WILL DIE. Now, the player must pick a race. They are as followed: 
+
 | RACE    | STR | DEX | ACR | POW | SPD | HP |
 | :------ | :-: | :-: | :-: | :-: | :-: | :: |
 | Dwarf   | 5   | 3   | 1   | 1   | 1   | 25 |
