@@ -1,8 +1,8 @@
-<h1>Base Weapons</h1>
+# Base Weapons
 
-<p>Here is a list of all weapons, their stats, and what level is required to get them: </p>
+Here is a list of all weapons, their stats, and what level is required to get them: 
 
-<p>| Name                  | Lvl  | Hands | Damage |
+| Name                  | Lvl  | Hands | Damage |
 | :-------------------- | :--: | :---: | :----: |
 | Iron Dagger           | 1    | 1     | 1      |
 | Iron Sword            | 1    | 1     | 2      |
@@ -21,4 +21,12 @@
 | Damascus Mace         | 5    | 1     | 7      |
 | Damascus Greatsword   | 5    | 2     | 8      |
 | Damascus BattleAxe    | 5    | 2     | 9      |
-| Damascus Sledgehammer | 5    | 2     | 10     | Mithril Dagger 7 1 7 Mithril Sword 7 1 8 Mithril Mace 7 1 9 Mithril Greatsword 7 2 10 Mithril BattleAxe 7 2 11 Mithril Sledgehammer 7 2 12 The Manager, if need be, can make more weapons for this list.</p>
+| Damascus Sledgehammer | 5    | 2     | 10     | 
+| Mithril Dagger        | 7    | 1     | 7      |
+| Mithril Sword         | 7    | 1     | 8      |
+| Mithril Mace          | 7    | 1     | 9      |
+| Mithril Greatsword    | 7    | 2     | 10     |
+| Mithril BattleAxe     | 7    | 2     | 11     | 
+| Mithril Sledgehammer  | 7    | 2     | 12     |
+
+The Manager, if need be, can make more weapons for this list.

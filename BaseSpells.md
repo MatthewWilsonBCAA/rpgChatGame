@@ -21,4 +21,4 @@ Here is a list of all spells, their stats, and what level is required to get the
 | Wall             | 7   | the party gets +5 Defense for the rest of the battle |
 | Speed of Light   | 7   | For the next 4 turns, you go first *4* times         |
 
-As with all other things, The Manager, if need be, can make more spells for this list. 
+ As with all other things, The Manager, if need be, can make more spells for this list. 
