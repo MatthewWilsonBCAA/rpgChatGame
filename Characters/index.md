@@ -36,3 +36,7 @@ Finally, they must choose a modifier. These give one final bonus. They are as fo
 
 
 After that, the Manager will compile all of their data and move on to the next player until they are done with all players. After killing a monster (anyone that hit it gets XP), you get XP. Once you reach you XP limit (your level * 50), you get to level up! All stats are increased by one, and your Max Hp goes up by 5. Your level is then increased. 
+
+## Further reading:
+
+- [Classes](./Classes)
