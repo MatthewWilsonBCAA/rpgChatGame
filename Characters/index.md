@@ -40,3 +40,4 @@ After that, the Manager will compile all of their data and move on to the next p
 ## Further reading:
 
 - [Classes](./Classes)
+- [Races](./Races)
