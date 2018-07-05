@@ -4,7 +4,7 @@
 
 A warriar holds discipline and style in high regards.
 
-## Starting Gear (as __Main Class__:
+## Starting Gear (as __Main Class__):
 
 Iron Battle Axe, Iron Armor, Iron Sword
 
