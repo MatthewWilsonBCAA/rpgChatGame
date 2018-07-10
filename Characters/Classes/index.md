@@ -14,7 +14,7 @@ A subclass of __Warrior__, they are trained to use a bow and arrow. Their main g
 
 A subclass of __Archer__, they are not much different other than that they have somewhat lower discipline and higher familiarity with their bow.
 
-### Paladin
+### Palladin
 
 A subclass of __Warrior__, they depend on outlasting the enemy in drawn out combat.
 

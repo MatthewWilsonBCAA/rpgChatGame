@@ -28,5 +28,7 @@ Here is a list of all weapons, their stats, and what level is required to get th
 | Mithril Greatsword    | 7    | 2     | 10     |
 | Mithril BattleAxe     | 7    | 2     | 11     | 
 | Mithril Sledgehammer  | 7    | 2     | 12     |
+| Red Sword             | ?    | 1     | 10     |
+| Dead Sword            | ?    | 1     | 12     |
 
 The Manager, if need be, can make more weapons for this list.
