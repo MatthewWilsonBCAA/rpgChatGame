@@ -6,4 +6,4 @@ Relevant links:
   - [Base Spells](./BaseSpells)
   - [Base Enemies](./BaseEnemies)
   - [Base Armor](./BaseArmor)
-  
+  - [Skills](./BaseSkills)
