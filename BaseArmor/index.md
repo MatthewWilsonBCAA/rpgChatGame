@@ -16,7 +16,7 @@ Here is a list of all armors, their stats, and what level is required to get the
 | Green (Mithril)   | ?   | 17   | 1               |
 | Red (Pallidum)    | ?   | 19   | 2               |
 | Dead              | ?   | 21   | 2               |
-| White (Gold)      | ?   | 23   | 1               |
+| White (Gold)      | ?   | 23   | 3               |
 | Pink (Orichalcum) | ?   | 25   | -1              |
 
 As with weapons, The Manager, if need be, can make more armors for this list. 
