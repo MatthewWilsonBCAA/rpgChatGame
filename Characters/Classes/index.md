@@ -41,3 +41,7 @@ A subclass of __Mage__, a __Sorcerer__ specifies in the elements, and controllin
 ### Necromancer
 
 A subclass of __Mage__, these magic folk specialize in the secrets and reversal of death. Many __Necromancers__ fall to the lust for power, despite starting with good intents.
+
+### Druid
+
+A subclass of __Mage__, a __Druid__ is conscious of the enviroment around them, and try to perserve balance.
