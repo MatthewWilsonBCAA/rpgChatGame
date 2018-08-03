@@ -7,3 +7,4 @@ Relevant links:
   - [Base Enemies](./BaseEnemies)
   - [Base Armor](./BaseArmor)
   - [Skills](./BaseSkills)
+  - [Traps](./Traps)
