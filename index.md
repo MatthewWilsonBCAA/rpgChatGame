@@ -1,3 +1,4 @@
+Stardust Kingdoms Guide
 Relevant links:
 
   - [Basic game flow](./BasicGameFlow)
