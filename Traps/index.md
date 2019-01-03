@@ -2,8 +2,8 @@
 
 For traps, a chance of avoidance is provided as follows:
 
-  1. Take any related stats such as dexterity, accuracy, or intelligance.
+  1. Get Speed and Adaptability.
   2. Find the sum.
-  3. Divide by the number of related stats, or the minimum 2.
-  4. Add to 50.
-  5. Roll a percentile dice. If it's lower than the result, they evade or don't set off the trap.
+  3. Divide by 2.
+  4. Roll two die. If the stat totals are higherthan the result, 
+  they evade or don't set off the trap.
