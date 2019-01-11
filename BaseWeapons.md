@@ -7,12 +7,14 @@ Here is a list of all weapons, their stats, and what level is required to get th
 | Iron Dagger           | 1    | 1     | 1      |
 | Iron Sword            | 1    | 1     | 2      |
 | Iron Mace             | 1    | 1     | 3      |
+| Iron Bow              | 1    | 2     | 2      |
 | Iron Greatsword       | 1    | 2     | 4      |
 | Iron BattleAxe        | 1    | 2     | 5      |
 | Iron Sledgehammer     | 1    | 2     | 6      |
 | Steel Dagger          | 3    | 1     | 3      |
 | Steel Sword           | 3    | 1     | 4      |
 | Steel Mace            | 3    | 1     | 5      |
+| Steel Bow             | 3    | 2     | 4      |
 | Steel Greatsword      | 3    | 2     | 6      |
 | Steel BattleAxe       | 3    | 2     | 7      |
 | Steel Sledgehammer    | 3    | 2     | 8      |
