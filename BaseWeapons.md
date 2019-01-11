@@ -21,12 +21,14 @@ Here is a list of all weapons, their stats, and what level is required to get th
 | Damascus Dagger       | 5    | 1     | 5      |
 | Damascus Sword        | 5    | 1     | 6      | 
 | Damascus Mace         | 5    | 1     | 7      |
+| Damascus Bow          | 5    | 2     | 6      | 
 | Damascus Greatsword   | 5    | 2     | 8      |
 | Damascus BattleAxe    | 5    | 2     | 9      |
 | Damascus Sledgehammer | 5    | 2     | 10     | 
 | Mithril Dagger        | 7    | 1     | 7      |
 | Mithril Sword         | 7    | 1     | 8      |
 | Mithril Mace          | 7    | 1     | 9      |
+| Mithril Bow           | 7    | 2     | 8      |
 | Mithril Greatsword    | 7    | 2     | 10     |
 | Mithril BattleAxe     | 7    | 2     | 11     | 
 | Mithril Sledgehammer  | 7    | 2     | 12     |
